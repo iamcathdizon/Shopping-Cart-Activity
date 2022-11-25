@@ -100,7 +100,7 @@
 
             <div class="row">
                 <div class="col-12 col-sm-12 col-md-4 col-lg-4">
-                    <a href="/Shopping Cart Activity/" class="btn btn-danger btn-lg btn-block"><i class="fa fa-shopping-bag"></i> Continue Shopping</a>
+                    <a href="index.php" class="btn btn-danger btn-lg btn-block"><i class="fa fa-shopping-bag"></i> Continue Shopping</a>
                 </div>
                 <?php if(isset($_SESSION['cartItems'])): ?>
                     <div class="col-12 col-sm-12 col-md-4 col-lg-4">
